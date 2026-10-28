@@ -8,7 +8,7 @@
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
 
 > **The 21st-Century Open Standard for Contemplative Travel, Urban Acoustic Health, and Sensory AI Routing.**  
-> *Aligned with the World Health Organization (WHO) $53\text{ dB } L_{\text{den}}$ environmental noise guidelines and cited via CERN Zenodo ([`10.5281/zenodo.22756473`](https://doi.org/10.5281/zenodo.22756473)).*
+> *Aligned with the World Health Organization (WHO) 53 dB Lden environmental noise guidelines and cited via CERN Zenodo ([`10.5281/zenodo.22756473`](https://doi.org/10.5281/zenodo.22756473)).*
 
 ---
 
@@ -17,7 +17,7 @@
 | Repository | Layer | Purpose & Live Endpoint |
 | :--- | :---: | :--- |
 | 🧠 **[`space-journey-mcp-engine`](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine)** | **AI Protocol (MCP v3.0)** | Zero-Auth **Model Context Protocol (MCP)** server & **Kairós IATA Routing Protocol** for Claude, Cursor, OpenWebUI, Llama, Mistral & Gemini. Live endpoint: `https://mcp.spacelab.network/mcp` |
-| 📊 **[`sensory-impact-score-datasets`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets)** | **Open Data (CC-BY-4.0)** | Verified acoustic ($\text{dB}$), photic ($\text{lx}$), and crowd-density ($\rho$) urban benchmarks across **Rome, Paris, and Mexico City (CDMX)** + 1-Click Google Colab notebooks. |
+| 📊 **[`sensory-impact-score-datasets`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets)** | **Open Data (CC-BY-4.0)** | Verified acoustic (dB), photic (lx), and crowd-density (pax/m²) urban benchmarks across **Rome, Paris, and Mexico City (CDMX)** + 1-Click Google Colab notebooks. |
 | 🎮 **[`the-sensory-atlas-prototype`](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype)** | **Spatial WebGL (`<1MB`)** | Isometric Three.js WebGL playable experience translating urban acoustic harmony into interactive art. [Live Demo](https://spacejourney.app/play/roma-atlas/) |
 
 ---
