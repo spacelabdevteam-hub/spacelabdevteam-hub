@@ -7,6 +7,7 @@
 [![Hugging Face Article](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Technical%20Article-yellow.svg)](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation)
 [![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-mcp.spacelab.network-10B981)](https://mcp.spacelab.network/mcp)
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Debate%20%235-059669?style=flat&logo=github)](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5)
 
 > **The 21st-Century Open Standard for Contemplative Travel, Urban Acoustic Health, and Sensory AI Routing.**  
 > *Aligned with the World Health Organization (WHO) 53 dB Lden environmental noise guidelines and cited via CERN Zenodo ([`10.5281/zenodo.22756473`](https://doi.org/10.5281/zenodo.22756473)).*
@@ -26,6 +27,10 @@
   </p>
   <br />
 </div>
+
+
+> [!NOTE]
+> 💬 **Scientific Peer Review & Community Debate:** We invite urban planners, soundscape ecologists, and AI developers to join [**GitHub Discussion #5: Urban Acoustic Telemetry & SIS Index v3.0**](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5) alongside our [Hugging Face Technical Publication](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation).
 
 ---
 
