@@ -5,7 +5,7 @@
 [![WHO Acoustic Guideline](https://img.shields.io/badge/WHO_Guideline-53_dB_Lden-006699)](https://spacejourney.app/standards/sensory-impact-score/)
 [![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
 [![Hugging Face Article](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Technical%20Article-yellow.svg)](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation)
-[![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-mcp.spacelab.network-10B981)](https://mcp.spacelab.network/mcp)
+[![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-Cloudflare_Workers_SSE-10B981)](https://space-journey-engine.spacelab-mcp.workers.dev/mcp)
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Debate%20%235-059669?style=flat&logo=github)](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5)
 
@@ -38,7 +38,7 @@
 
 | Repository | Layer | Purpose & Live Endpoint |
 | :--- | :---: | :--- |
-| 🧠 **[`space-journey-mcp-engine`](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine)** | **AI Protocol (MCP v3.0)** | Zero-Auth **Model Context Protocol (MCP)** server & **Kairós IATA Routing Protocol** for Claude, Cursor, OpenWebUI, Llama, Mistral & Gemini. Live endpoint: `https://mcp.spacelab.network/mcp` |
+| 🧠 **[`space-journey-mcp-engine`](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine)** | **AI Protocol (MCP v3.0)** | Zero-Auth **Model Context Protocol (MCP)** server & **Kairós IATA Routing Protocol** for Claude, Cursor, OpenWebUI, Llama, Mistral & Gemini. Live endpoint: `https://space-journey-engine.spacelab-mcp.workers.dev/mcp` |
 | 📊 **[`sensory-impact-score-datasets`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets)** | **Open Data (CC-BY-4.0)** | Verified acoustic (dB), photic (lx), and crowd-density (pax/m²) urban benchmarks across **Rome, Paris, and Mexico City (CDMX)** + 1-Click Google Colab notebooks. |
 | 🎮 **[`the-sensory-atlas-prototype`](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype)** | **Spatial WebGL (`<1MB`)** | Isometric Three.js WebGL playable experience translating urban acoustic harmony into interactive art. [Live Demo](https://spacejourney.app/play/roma-atlas/) |
 
@@ -50,7 +50,7 @@
 {
   "mcpServers": {
     "space-journey-engine": {
-      "url": "https://mcp.spacelab.network/mcp"
+      "url": "https://space-journey-engine.spacelab-mcp.workers.dev/mcp"
     }
   }
 }
