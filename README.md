@@ -4,11 +4,28 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/explore_global_sensory_benchmark.ipynb)
 [![WHO Acoustic Guideline](https://img.shields.io/badge/WHO_Guideline-53_dB_Lden-006699)](https://spacejourney.app/standards/sensory-impact-score/)
 [![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
+[![Hugging Face Article](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Technical%20Article-yellow.svg)](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation)
 [![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-mcp.spacelab.network-10B981)](https://mcp.spacelab.network/mcp)
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
 
 > **The 21st-Century Open Standard for Contemplative Travel, Urban Acoustic Health, and Sensory AI Routing.**  
 > *Aligned with the World Health Organization (WHO) 53 dB Lden environmental noise guidelines and cited via CERN Zenodo ([`10.5281/zenodo.22756473`](https://doi.org/10.5281/zenodo.22756473)).*
+
+<div align="center">
+  <br />
+  <a href="https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation">
+    <img src="https://huggingface.co/spaces/spacejourney/sensory-impact-explorer/resolve/main/assets/og-sensory-earth.png" width="100%" alt="Space Journey — Sensory Earth & Acoustic Telemetry (SIS Index v3.0)" style="border-radius: 14px; box-shadow: 0 8px 32px rgba(232, 197, 125, 0.3); border: 1px solid rgba(232, 197, 125, 0.45);" />
+  </a>
+  <p>
+    <b>📖 Official Technical Publication (Hugging Face Blog · DR 88):</b> <br />
+    <a href="https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation">
+      <em>Measuring Urban Quiet: Acoustic Telemetry, Elevation Profiles, and the Open Sensory Impact Score (SIS v3.0)</em>
+    </a>
+    <br />
+    <sub>Authored by Daniel Adolfo Duque Romero & Space Lab Research Team · Permanent CERN Zenodo Archive: <a href="https://doi.org/10.5281/zenodo.22756473"><code>10.5281/zenodo.22756473</code></a></sub>
+  </p>
+  <br />
+</div>
 
 ---
 
