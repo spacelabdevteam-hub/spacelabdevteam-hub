@@ -62,6 +62,6 @@
 
 - **Sensory Impact Score (SIS) Technical Standard:** [https://spacejourney.app/standards/sensory-impact-score/](https://spacejourney.app/standards/sensory-impact-score/)
 - **Interactive 1-Click Contemplative Planner:** [https://spacejourney.app/planificador-de-viajes/](https://spacejourney.app/planificador-de-viajes/)
-- **Sensory Earth (3D WebGL Globe — 227 Countries):** [https://spacejourney.app/sensory-earth/](https://spacejourney.app/sensory-earth/)
+- **Sensory Earth (3D WebGL Globe — 227 Countries):** [https://spacejourney.app/earth/](https://spacejourney.app/earth/)
 - **Trip Saver Browser Extension (Chrome Web Store):** [https://spacejourney.app/extension-viajes-chrome-safari/](https://spacejourney.app/extension-viajes-chrome-safari/)
 - **Hugging Face Datasets & Interactive Space:** [https://huggingface.co/spacejourney](https://huggingface.co/spacejourney)
