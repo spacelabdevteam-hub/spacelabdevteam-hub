@@ -34,6 +34,17 @@
 
 ---
 
+## Open tool · Music Library Kit
+
+**[Try the Music Library Kit](https://github.com/spacelabdevteam-hub/music-library-kit)** — A dependency-free CSV/JSON music metadata preparer with a local-worker browser demo, tests, synthetic examples and a documented file handoff to [Sensory Earth](https://spacejourney.app/earth/). Run the included demo locally with `npm start`.
+
+**ES:** Prepara tu biblioteca en el navegador y descarga lotes compatibles con Earth.  
+**PT:** Prepare sua biblioteca no navegador e baixe lotes compatíveis com o Earth.
+
+MIT-licensed utility; no private resolver or catalog included. Developed with substantial OpenAI Codex / GPT-6 assistance. This product release makes no grant-funding or eligibility claim.
+
+---
+
 ## Development update · 22 November 2026
 
 **[Sensory Earth: music-library imports and geographic discovery](updates/2026-11-22-sensory-earth-music-import.md)** — A status report on public-link, library-file and authorized account-import work, with verification limits and platform dependencies. [Open the official experience](https://spacejourney.app/earth/).
