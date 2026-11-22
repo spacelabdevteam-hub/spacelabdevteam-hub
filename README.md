@@ -34,6 +34,17 @@
 
 ---
 
+## Development update · 22 November 2026
+
+**[Sensory Earth: music-library imports and geographic discovery](updates/2026-11-22-sensory-earth-music-import.md)** — A status report on public-link, library-file and authorized account-import work, with verification limits and platform dependencies. [Open the official experience](https://spacejourney.app/earth/).
+
+**ES:** Avances en importación musical y exploración geográfica, con estado comprobado y límites documentados.  
+**PT:** Avanços na importação musical e exploração geográfica, com estado verificado e limites documentados.
+
+This is a product-development report, separate from the spatial-routing research. It does not release importer code or change existing software licenses. Prepared with OpenAI Codex assistance; see the note for editorial provenance.
+
+---
+
 ## 🏛️ Open Digital Commons Architecture (The Triad of Repositories)
 
 | Repository | Layer | Purpose & Live Endpoint |
