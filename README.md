@@ -36,7 +36,7 @@
 
 ## Open tool · Music Library Kit
 
-**[Try the Music Library Kit](https://github.com/spacelabdevteam-hub/music-library-kit)** — A dependency-free CSV/JSON music metadata preparer with a local-worker browser demo, tests, synthetic examples and a documented file handoff to [Sensory Earth](https://spacejourney.app/earth/). Run the included demo locally with `npm start`.
+**[Try the Music Library Kit](https://github.com/spacelabdevteam-hub/music-library-kit)** — A dependency-free CSV/JSON music metadata preparer with a local-worker browser demo, tests, synthetic examples and a documented file handoff to [Sensory Earth](https://spacejourney.app/earth/). [Try the live demo on Hugging Face](https://huggingface.co/spaces/spacejourney/music-library-kit), or run it locally with `npm start`.
 
 **ES:** Prepara tu biblioteca en el navegador y descarga lotes compatibles con Earth.  
 **PT:** Prepare sua biblioteca no navegador e baixe lotes compatíveis com o Earth.
