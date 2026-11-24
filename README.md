@@ -1,16 +1,20 @@
 # 🌿 Space Journey Research Lab (`spacelabdevteam-hub`)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22756473.svg)](https://doi.org/10.5281/zenodo.22756473)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/explore_global_sensory_benchmark.ipynb)
-[![WHO Acoustic Guideline](https://img.shields.io/badge/WHO_Guideline-53_dB_Lden-006699)](https://spacejourney.app/standards/sensory-impact-score/)
-[![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
-[![Hugging Face Article](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Technical%20Article-yellow.svg)](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation)
-[![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-Cloudflare_Workers_SSE-10B981)](https://space-journey-engine.spacelab-mcp.workers.dev/mcp)
-[![Space Journey MCP connector](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
-[![spacelabdevteam-hub/space-journey-mcp-engine MCP server](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine/badges/score.svg)](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine)
-[![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
-[![Sensory Earth 3D](https://img.shields.io/badge/%F0%9F%8C%8D%20Sensory_Earth-3D_Globe_%C2%B7_227_Countries-10B981)](https://spacejourney.app/earth/)
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Debate%20%235-059669?style=flat&logo=github)](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5)
+<p>
+  <a href="https://spacejourney.app/"><img src="https://img.shields.io/badge/Space_Journey-spacejourney.app-E8C57D?style=flat&labelColor=112F24" alt="Space Journey Portal" /></a>
+  <a href="https://spacejourney.app/earth/"><img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Sensory_Earth-3D_Globe_%C2%B7_227_Countries-E8C57D?style=flat&labelColor=0B1E33" alt="Sensory Earth 3D Globe" /></a>
+  <a href="https://space-journey-engine.spacelab-mcp.workers.dev/mcp"><img src="https://img.shields.io/badge/MCP_Endpoint-Cloudflare_Workers-047857?style=flat&labelColor=0A0F0D&logo=cloudflareworkers&logoColor=E8C57D" alt="Live MCP Server" /></a>
+  <a href="https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey"><img src="https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey/badges/score.svg" alt="Space Journey MCP connector" /></a>
+  <a href="https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine"><img src="https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine/badges/score.svg" alt="spacelabdevteam-hub/space-journey-mcp-engine MCP server" /></a>
+</p>
+<p>
+  <a href="https://doi.org/10.5281/zenodo.22756473"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22756473-1E3A5F?style=flat&labelColor=0E1618&logo=zenodo&logoColor=E8C57D" alt="CERN Zenodo DOI" /></a>
+  <a href="https://spacejourney.app/standards/sensory-impact-score/"><img src="https://img.shields.io/badge/WHO_Guideline-53_dB_Lden-204035?style=flat&labelColor=0E1618" alt="WHO Acoustic Guideline" /></a>
+  <a href="https://huggingface.co/spacejourney"><img src="https://img.shields.io/badge/Hugging_Face-spacejourney-193B33?style=flat&labelColor=0E1618&logo=huggingface&logoColor=E8C57D" alt="Hugging Face Hub" /></a>
+  <a href="https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation"><img src="https://img.shields.io/badge/Technical_Paper-SIS_v3.0-2C3E50?style=flat&labelColor=0E1618&logo=huggingface&logoColor=E8C57D" alt="Hugging Face Technical Paper" /></a>
+  <a href="https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/explore_global_sensory_benchmark.ipynb"><img src="https://img.shields.io/badge/Colab-Benchmark_Notebook-1E3A5F?style=flat&labelColor=0E1618&logo=googlecolab&logoColor=E8C57D" alt="Open In Colab" /></a>
+  <a href="https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5"><img src="https://img.shields.io/badge/Discussions-Join_Debate_%235-193B33?style=flat&labelColor=0E1618&logo=github&logoColor=E8C57D" alt="GitHub Discussions" /></a>
+</p>
 
 > **The 21st-Century Open Standard for Contemplative Travel, Urban Acoustic Health, and Sensory AI Routing.**  
 > *Aligned with the World Health Organization (WHO) 53 dB Lden environmental noise guidelines and cited via CERN Zenodo ([`10.5281/zenodo.22756473`](https://doi.org/10.5281/zenodo.22756473)).*
