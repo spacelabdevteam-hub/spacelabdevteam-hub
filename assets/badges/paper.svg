@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="20" viewBox="0 0 172 20" role="img" aria-label="Technical Whitepaper: Sensory Impact Score v3.0">
+  <title>Technical Whitepaper: Sensory Impact Score v3.0</title>
+  <clipPath id="r"><rect width="172" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="46" height="20" fill="#0E1618"/>
+    <rect x="46" width="126" height="20" fill="#1E2D3D"/>
+    <rect x="46" y="1" width="1" height="18" fill="#334E68"/>
+  </g>
+  <rect x="0.5" y="0.5" width="171" height="19" rx="2.5" fill="none" stroke="#334E68" stroke-width="1"/>
+  
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="23.0" y="13.8" text-anchor="middle" fill="#E8C57D" font-weight="500">Paper</text>
+    <text x="109.0" y="13.8" text-anchor="middle" fill="#F1F5F9" font-weight="600">SIS v3.0 Whitepaper</text>
+  </g>
+</svg>

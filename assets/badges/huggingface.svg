@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="20" viewBox="0 0 172 20" role="img" aria-label="Hugging Face Open Datasets: spacejourney">
+  <title>Hugging Face Open Datasets: spacejourney</title>
+  <clipPath id="r"><rect width="172" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="86" height="20" fill="#0E1618"/>
+    <rect x="86" width="86" height="20" fill="#19342B"/>
+    <rect x="86" y="1" width="1" height="18" fill="#2A5B4B"/>
+  </g>
+  <rect x="0.5" y="0.5" width="171" height="19" rx="2.5" fill="none" stroke="#2A5B4B" stroke-width="1"/>
+  
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="43.0" y="13.8" text-anchor="middle" fill="#E8C57D" font-weight="500">Hugging Face</text>
+    <text x="129.0" y="13.8" text-anchor="middle" fill="#ECFDF5" font-weight="600">spacejourney</text>
+  </g>
+</svg>

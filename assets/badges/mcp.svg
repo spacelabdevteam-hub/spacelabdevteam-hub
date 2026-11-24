@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="20" viewBox="0 0 170 20" role="img" aria-label="Live MCP Server on Cloudflare Workers">
+  <title>Live MCP Server on Cloudflare Workers</title>
+  <clipPath id="r"><rect width="170" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="48" height="20" fill="#0A0F0D"/>
+    <rect x="48" width="122" height="20" fill="#11382A"/>
+    <rect x="48" y="1" width="1" height="18" fill="#216B51"/>
+  </g>
+  <rect x="0.5" y="0.5" width="169" height="19" rx="2.5" fill="none" stroke="#216B51" stroke-width="1"/>
+  <circle cx="10.5" cy="10" r="3" fill="#10B981"/><circle cx="10.5" cy="10" r="4.8" fill="none" stroke="#10B981" stroke-opacity="0.35" stroke-width="1"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="31.0" y="13.8" text-anchor="middle" fill="#A7F3D0" font-weight="500">MCP</text>
+    <text x="109.0" y="13.8" text-anchor="middle" fill="#ECFDF5" font-weight="600">Cloudflare Workers</text>
+  </g>
+</svg>
