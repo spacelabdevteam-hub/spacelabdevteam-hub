@@ -9,6 +9,7 @@
 [![Space Journey MCP connector](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
 [![spacelabdevteam-hub/space-journey-mcp-engine MCP server](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine/badges/score.svg)](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine)
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
+[![Sensory Earth 3D](https://img.shields.io/badge/%F0%9F%8C%8D%20Sensory_Earth-3D_Globe_%C2%B7_227_Countries-10B981)](https://spacejourney.app/earth/)
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Debate%20%235-059669?style=flat&logo=github)](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5)
 
 > **The 21st-Century Open Standard for Contemplative Travel, Urban Acoustic Health, and Sensory AI Routing.**  
