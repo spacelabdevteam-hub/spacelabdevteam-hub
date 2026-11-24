@@ -6,6 +6,8 @@
 [![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
 [![Hugging Face Article](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Technical%20Article-yellow.svg)](https://huggingface.co/blog/spacejourney/measuring-urban-quiet-acoustic-telemetry-elevation)
 [![Live MCP Server](https://img.shields.io/badge/MCP_Endpoint-Cloudflare_Workers_SSE-10B981)](https://space-journey-engine.spacelab-mcp.workers.dev/mcp)
+[![Space Journey MCP connector](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
+[![spacelabdevteam-hub/space-journey-mcp-engine MCP server](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine/badges/score.svg)](https://glama.ai/mcp/servers/spacelabdevteam-hub/space-journey-mcp-engine)
 [![Canonical Portal](https://img.shields.io/badge/Web-spacejourney.app-E8C57D)](https://spacejourney.app/)
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Debate%20%235-059669?style=flat&logo=github)](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine/discussions/5)
 
@@ -82,6 +84,7 @@ This is a product-development report, separate from the spatial-routing research
 
 ## 🌍 Live Ecosystem & Public Tools
 
+- **Glama Verified MCP Connector:** [https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
 - **Sensory Impact Score (SIS) Technical Standard:** [https://spacejourney.app/standards/sensory-impact-score/](https://spacejourney.app/standards/sensory-impact-score/)
 - **Interactive 1-Click Contemplative Planner:** [https://spacejourney.app/planificador-de-viajes/](https://spacejourney.app/planificador-de-viajes/)
 - **Sensory Earth (3D WebGL Globe — 227 Countries):** [https://spacejourney.app/earth/](https://spacejourney.app/earth/)
