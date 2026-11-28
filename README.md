@@ -53,14 +53,14 @@ MIT-licensed utility; no private resolver or catalog included. Developed with su
 
 ---
 
-## Development update · 22 November 2026
+## Development update · 28 November 2026
 
-**[Sensory Earth: music-library imports and geographic discovery](updates/2026-11-22-sensory-earth-music-import.md)** — A status report on public-link, library-file and authorized account-import work, with verification limits and platform dependencies. [Open the official experience](https://spacejourney.app/earth/).
+**[London SIS v1.1 & The Sensory Atlas v2.0 (Three.js r170 + FAIR Open Data)](updates/2026-11-28-london-sis-and-atlas-v2.md)** — Completed full open-science parity for [`cities/03_london`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets/tree/main/cities/03_london) (normalized CSV/JSON, Copernicus DEM GLO-90 telemetry, zero-dependency validator, Colab notebook & HF sync) and refactored [`the-sensory-atlas-prototype`](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype) into a modular Three.js `r170` isometric (`35.264°`) viewer with automated CI.
 
-**ES:** Avances en importación musical y exploración geográfica, con estado comprobado y límites documentados.  
-**PT:** Avanços na importação musical e exploração geográfica, com estado verificado e limites documentados.
+**ES:** Lanzamiento de Londres SIS v1.1 (validador, Colab y Hugging Face) y The Sensory Atlas v2.0 modular en Three.js `r170` con CI en verde.  
+**PT:** Lançamento de Londres SIS v1.1 (validador, Colab e Hugging Face) e The Sensory Atlas v2.0 modular em Three.js `r170` com CI verde.
 
-This is a product-development report, separate from the spatial-routing research. It does not release importer code or change existing software licenses. Prepared with OpenAI Codex assistance; see the note for editorial provenance.
+*Previous update:* [22 November 2026 — Sensory Earth: music-library imports and geographic discovery](updates/2026-11-22-sensory-earth-music-import.md). Technical progress notes only; no grant-funding or eligibility claim.
 
 ---
 
@@ -69,8 +69,8 @@ This is a product-development report, separate from the spatial-routing research
 | Repository | Layer | Purpose & Live Endpoint |
 | :--- | :---: | :--- |
 | 🧠 **[`space-journey-mcp-engine`](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine)** | **AI Protocol (MCP v3.0)** | Zero-Auth **Model Context Protocol (MCP)** server & **Kairós IATA Routing Protocol** for Claude, Cursor, OpenWebUI, Llama, Mistral & Gemini. Live endpoint: `https://space-journey-engine.spacelab-mcp.workers.dev/mcp` |
-| 📊 **[`sensory-impact-score-datasets`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets)** | **Open Data (CC-BY-4.0)** | Verified acoustic (dB), photic (lx), and crowd-density (pax/m²) urban benchmarks across **Rome, Paris, and Mexico City (CDMX)** + 1-Click Google Colab notebooks. |
-| 🎮 **[`the-sensory-atlas-prototype`](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype)** | **Spatial WebGL (`<1MB`)** | Isometric Three.js WebGL playable experience translating urban acoustic harmony into interactive art. [Live Demo](https://spacejourney.app/play/roma-atlas/) |
+| 📊 **[`sensory-impact-score-datasets`](https://github.com/spacelabdevteam-hub/sensory-impact-score-datasets)** | **Open Data (CC-BY-4.0)** | Verified acoustic (`dB`), photic (`lx`), and **ESA Copernicus DEM GLO-90** urban benchmarks across **6 capitals & 94 sanctuaries** (Rome, Paris, **London v1.1**, CDMX, NYC, Miami) + zero-dependency validators & 1-Click Colab notebooks. |
+| 🎮 **[`the-sensory-atlas-prototype`](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype)** | **Spatial WebGL (`r170 ESM`)** | Modular **Three.js r170** isometric (`35.264°` Orthographic) viewer connected live to Rome, Paris & London FAIR datasets, Copernicus DEM relief, Web Audio soundscape & Node CI. [GitHub Pages](https://spacelabdevteam-hub.github.io/the-sensory-atlas-prototype/) · [Rome Atlas](https://spacejourney.app/play/roma-atlas/) |
 
 ---
 
